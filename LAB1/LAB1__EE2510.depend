@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615939546 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab1__ee2510\main.cpp
+	<iostream>
+	"calculatorfunctions.h"
+
+1616189358 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab1__ee2510\calculatorfunctions.h
+
+1616189151 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab1__ee2510\calculatorfunctions.cpp
+	"calculatorfunctions.h"
+	<iostream>
+	<string>
+
