@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="Aphids.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="63" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="61" />
+			<Collapse line="64" />
+			<Collapse line="102" />
+			<Collapse line="128" />
+		</Folding>
+	</File>
+	<File name="Game.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="88" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="Ladybug.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="18" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="30" />
+			<Collapse line="50" />
+			<Collapse line="107" />
+			<Collapse line="113" />
+			<Collapse line="138" />
+			<Collapse line="157" />
+			<Collapse line="177" />
+			<Collapse line="182" />
+			<Collapse line="187" />
+			<Collapse line="216" />
+			<Collapse line="221" />
+			<Collapse line="226" />
+			<Collapse line="252" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Ladybug.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="310" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Insect.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1015" topLine="30" />
+		</Cursor>
+	</File>
+	<File name="Game.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="41" />
+		</Cursor>
+		<Folding>
+			<Collapse line="64" />
+			<Collapse line="88" />
+			<Collapse line="133" />
+			<Collapse line="158" />
+		</Folding>
+	</File>
+	<File name="Aphids.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="248" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="Insect.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="315" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
