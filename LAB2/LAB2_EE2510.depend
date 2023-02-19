@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1616121379 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab2_ee2510\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<string>
+	"rectangle.h"
+	"MyBox.h"
+
+1616014093 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab2_ee2510\randb.cpp
+	"MyBox.h"
+	"rectangle.h"
+	<iostream>
+	<string>
+
+1616013910 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab2_ee2510\mybox.h
+	<string>
+
+1616013430 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab2_ee2510\rectangle.h
+	<string>
+
