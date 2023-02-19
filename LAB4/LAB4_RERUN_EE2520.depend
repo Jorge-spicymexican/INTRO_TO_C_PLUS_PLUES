@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1618138155 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab4_rerun_ee2520\main.cpp
+	<iostream>
+	"Player.h"
+	"Team.h"
+	<vector>
+
+1618133801 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab4_rerun_ee2520\player_functions.cpp
+	"Player.h"
+	<stdio.h>
+	<string>
+	<math.h>
+	<iostream>
+	<sstream>
+
+1618197798 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab4_rerun_ee2520\player.h
+	<stdio.h>
+	<string>
+	<iostream>
+
+1618198540 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab4_rerun_ee2520\team_functions.cpp
+	"Team.h"
+	"Player.h"
+	<stdio.h>
+	<string>
+	<vector>
+	<math.h>
+	<iostream>
+	<sstream>
+
+1618132806 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab4_rerun_ee2520\team.h
+	<stdio.h>
+	<string>
+	<vector>
+	<iostream>
+	"Player.h"
+
