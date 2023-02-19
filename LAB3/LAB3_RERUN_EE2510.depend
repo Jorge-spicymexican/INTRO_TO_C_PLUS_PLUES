@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1616872544 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab3_rerun_ee2510\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<random>
+	<math.h>
+	<string>
+	"DairyCow.h"
+	"HayField.h"
+
+1616800385 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab3_rerun_ee2510\cowsandhay.cpp
+	"DairyCow.h"
+	"HayField.h"
+	<iostream>
+	<stdexcept>
+	<string>
+	<cmath>
+
+1616636331 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab3_rerun_ee2510\dairycow.h
+	<string>
+	<stdio.h>
+
+1616636345 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab3_rerun_ee2510\hayfield.h
+	<string>
+	<stdio.h>
+
