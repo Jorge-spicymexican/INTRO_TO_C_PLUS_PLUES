@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1619107843 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\main.cpp
+	<string>
+	"Shape.h"
+	"TwoDShape.h"
+	"ThreeDShape.h"
+	"Rectangle.h"
+	"Circle.h"
+	"Box.h"
+	"Sphere.h"
+	<vector>
+
+1618863459 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\shape.cpp
+	"Shape.h"
+	<stdio.h>
+	<string>
+	<iostream>
+	<sstream>
+
+1618863469 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\shape.h
+	<stdio.h>
+	<string>
+	<iostream>
+
+1618896837 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\twodshape.cpp
+	"TwoDShape.h"
+	<stdio.h>
+	<string>
+	<iostream>
+	<sstream>
+
+1618894999 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\twodshape.h
+	<stdio.h>
+	<string>
+	<iostream>
+	"Shape.h"
+
+1618893770 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+	<sstream>
+
+1618863636 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\rectangle.h
+	<stdio.h>
+	"TwoDShape.h"
+	<string>
+	<iostream>
+
+1618893971 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\circle.cpp
+	"Circle.h"
+	<iostream>
+	<sstream>
+
+1618893579 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\circle.h
+	"TwoDShape.h"
+	<iostream>
+	<sstream>
+
+1618895566 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\threedshape.cpp
+	"ThreeDShape.h"
+	<stdio.h>
+	<string>
+	<iostream>
+	<sstream>
+
+1618894889 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\threedshape.h
+	<stdio.h>
+	<string>
+	<iostream>
+	"Shape.h"
+
+1618897336 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\box.cpp
+	"Box.h"
+	<iostream>
+	<sstream>
+
+1618896755 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\box.h
+	<stdio.h>
+	"ThreeDShape.h"
+	<string>
+	<iostream>
+
+1618897896 source:c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\sphere.cpp
+	"Sphere.h"
+	<iostream>
+	<sstream>
+	<string>
+
+1618897467 c:\users\jurado-garciaj\documents\msoe courses\ee courses\ee2510\projects\code\lab1\lab5_ee2510\sphere.h
+	"ThreeDShape.h"
+	<iostream>
+	<sstream>
+
